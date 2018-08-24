@@ -1,0 +1,19 @@
+/* for mobile-smaller screens*/
+@media screen and (max-width: 450px) {
+    header {
+        background-color:blue;
+        padding:10px;
+        margin:0px;
+    }
+}
+/* for desktop-larger screens*/
+@media screen and (min-width: 450px) {
+    header {
+        background-color:green;
+        padding:10px;
+        margin:0px;
+    }
+}
+
+
+    
